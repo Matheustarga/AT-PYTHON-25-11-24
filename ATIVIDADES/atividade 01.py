@@ -13,3 +13,4 @@ if buscar in num_positivos:
   print(f"O número {buscar} está na lista!!!")
 else:
   print(f"O número {buscar} não está na lista!!!")
+  #primeira atividade
